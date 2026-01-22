@@ -20,6 +20,11 @@ The dataset consists of several flower categories organized in separate folders:
 
 Each folder contains real images used to train the generative model.
 
+## Sample Results
+
+Comparison between real images and generated images for the rose category:
+![Real vs Fake Images](result_flowers.png)
+
 ## Experiment Setup
 
 - Model: Deep Convolutional GAN (DCGAN)  
